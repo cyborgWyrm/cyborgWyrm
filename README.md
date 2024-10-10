@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @cyborgWyrm
-- 👀 I’m interested in: coding, comic creation, fantasy/sci fi
-- 🌱 I’m currently learning: java
-- 💞️ I’m looking to collaborate on: um nothing in particular
-- 📫 How to reach me: dont?
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: if (you instanceof human) {System.out.println("vete a la mierda");}
+- Hi, I’m @cyborgWyrm
+- Pronouns: she/her
+- I’m interested in: coding, drawing, fantasy/sci fi (do you think i might be a nerd)
+- I’m currently learning: javaaaaaaaa
+- Fun fact: if (you instanceof human) {System.out.println("vete a la mierda");}
+- Fun face about my fun fact: I kinda want to write some code that makes that line work
 
 <!---
 cyborgWyrm/cyborgWyrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
